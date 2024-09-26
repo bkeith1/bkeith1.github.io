@@ -18,3 +18,4 @@ Y --> ?
 ? --> N1[No!] --> B[End script]
 
 ```
+### First the game begins and a number is generated, then the user guesses the number and the answer is checked. If the answer is not numeric, it loops back to the guess page and tells you to guess a numeric value. If the answer is wrong, it also loops back to the guess page and tells you to guess again. If the answer is correct, it says "Correct!" and asks if you want to play again. If you say no, then the script ends, but if you say correct, the game begins again and generates a new number.
